@@ -8,5 +8,7 @@ Revision history for Perl extension Validator.
 	- First released version TO-DO re-write put() and validate() using eval()
 
 0.7   Mon Dec 29 20:12:00 2002
-	- Happy New Year release - variosu bugs fixed error() and match() now work
+	- Happy New Year release - various bugs fixed error() and match() now work
 
+0.75	Wed Jan 1 22:00 2003
+	- Minor typos fixed - notably the package name sorry!

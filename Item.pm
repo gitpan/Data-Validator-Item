@@ -2,7 +2,7 @@ package Data::Validator::Item;
 
 =head1 NAME
 
-Data::Validator::Item::Item		Factory Class to validate data items
+Data::Validator::Item	Factory Class to validate data items
 
 =head1 DESCRIPTION
 
@@ -99,7 +99,7 @@ use strict;
 use Carp;
 
 #Package globals
-our $VERSION = '0.7';
+our $VERSION = '0.75';
 my $Debugging = 0;
 
 =head1 PUBLIC FUNCTIONS
